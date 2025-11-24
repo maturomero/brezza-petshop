@@ -26,7 +26,7 @@ body {
   padding: 24px 16px;
 }
 
-/* CARD */
+
 .card {
   width: 100%;
   max-width: 420px;
@@ -40,7 +40,7 @@ body {
   backdrop-filter: blur(18px);
 }
 
-/* HEADER */
+
 .header {
   text-align: center;
   margin-bottom: 18px;
