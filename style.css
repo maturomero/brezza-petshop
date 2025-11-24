@@ -76,7 +76,6 @@ body {
   line-height: 1.45;
 }
 
-/* BADGE */
 .quick-info {
   display: flex;
   justify-content: center;
@@ -102,7 +101,7 @@ body {
   object-fit: contain;
 }
 
-/* LINKS */
+
 .links {
   display: flex;
   flex-direction: column;
@@ -110,7 +109,7 @@ body {
   margin-bottom: 18px;
 }
 
-/* BOTONES BLANCOS */
+
 .link-button {
   display: grid;
   grid-template-columns: 40px 1fr;
@@ -148,7 +147,7 @@ body {
 .link-button.primary {
   background: linear-gradient(135deg, var(--brezza-green), var(--brezza-green-soft));
   color: #022c22;
-  border-color: rgba(1, 216, 1, 0.856);
+  border-color: rgba(2, 134, 2, 0.877);
   box-shadow: 0 14px 32px rgba(22,163,74,0.7);
 }
 
